@@ -1,0 +1,10 @@
+Centipede, 5550000, DKV, 50, $12.50
+Defender, 750245000, LEH, 100, $25.00
+Dig Dug, 630000100, LNB, 612, $153.00
+Galaga, 3999990, FOW, 9999, $2499.75
+Missile Command, 832400, RKS, 397, $99.25
+Mousetrap, 895230, WJS, 12, $3.00
+Ms. Pac-Man, 1300050, BBF, 60, $15.00
+Pac-Man, 93022440, NRI, 7250, $1812.50
+Pole Position, 1300050, BBF, 60, $15.00
+Vanguard, 500000, EOS, 4, $1.00

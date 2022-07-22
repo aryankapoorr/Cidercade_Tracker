@@ -1,0 +1,9 @@
+5 asc
+4 Centipede
+3 "Dig Dug" 1 630000100
+2 Ms. Pac-Man
+2 Pac-Man
+5 des
+4 Pole Position
+3 "Galaga" 3 9999
+2 Jr. Pac-Man
